@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: duo-sdk-demo
+duo:
+  secret:
+    host: api-XXXXXXXX.duosecurity.com
+    ikey: DIWJ8X6AEYOR5OMC6TQ1
+    skey: Zh5eGmUq9zpfQnyUIu5OL9iWoMMv5ZNmk3zLJ4Ep
+  proxy:
+    proxy-enabled: false
+logging.level.io.github.superfive666.duosdk: debug
